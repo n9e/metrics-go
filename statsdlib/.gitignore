@@ -1,0 +1,10 @@
+/data
+/log
+/var
+/json
+/output
+/test
+test*
+.gitversion
+.deploy
+.statsd
